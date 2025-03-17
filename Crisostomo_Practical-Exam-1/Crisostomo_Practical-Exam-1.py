@@ -18,4 +18,4 @@ def count_unique_words(text):
     
     print("\nTotal words filtered:", sum(word_counts.values())) # print total number of filtered words
 
-count_unique_words(input("Enter a string statement:\n"))
+count_unique_words(input("Enter a string statement:\n\n"))
