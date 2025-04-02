@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance gaming laptop",
+    "price": 1299.99
+  },
+  {
+    "id": 2,
+    "name": "Mouse",
+    "description": "Wireless ergonomic mouse",
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "description": "Wireless ergonomic mouse",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "description": "Mechanical RGB keyboard",
+    "price": 89.99
+  }
+]
